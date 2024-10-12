@@ -1,5 +1,5 @@
 # Proyecto 1
 
-*Funalito de tales*
-
-En este proyecto proyecto hacemos la primera configuración con proyectos TDSP 
+*Isaac Zainea*
+## Introducción a ML
+[MLOPS] [Amazon](https://aws.amazon.com/es/what-is/mlops/)
